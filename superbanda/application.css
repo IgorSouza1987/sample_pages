@@ -1,0 +1,39 @@
+
+
+body{
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  background: url(galaxia.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: white;
+
+}
+main{
+  background: #00000054  ;
+  background-size: cover;
+  margin: 0px auto;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.top, .Logo ,.handline {
+  text-align: center;
+  margin: 0;
+
+}
+.concert{
+  margin: 30px 0;
+  text-align: center;
+  width: 100%;
+
+}
+
+.concert table{
+  background: #ff000085;
+  border-radius: 10px;padding: 10px;
+  margin: 0;
+  margin-left: auto;margin-right:auto;
+}
